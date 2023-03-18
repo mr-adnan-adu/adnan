@@ -59,7 +59,7 @@ A self-taught full-stack developer
   <img src="https://github.com/mr-adnan-adu/mr-adnan-adu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-[![@mr-adnan-adu's Holopin board](https://holopin.me/mr-adnan-adu)](https://holopin.io/@mr-adnan-adu)
+[![@mr-adnan-adu's Holopin board](https://holopin.me/mradnanadu)](https://holopin.io/@mradnanadu)
 
 ## Connect with me:
 <p align="left">
