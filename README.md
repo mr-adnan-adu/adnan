@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Albin Varghese</h1>
+         width="45" />, I'm Muhammed Adnan k</h1>
 
-<img src="https://komarev.com/ghpvc/?username=albinvar&label=Profile%20views&color=0e75b6&style=flat" alt="albinvar" /> 
+<img src="https://komarev.com/ghpvc/?username=mr-adnan-adu&label=Profile%20views&color=0e75b6&style=flat" alt="mr-adnan-adu" /> 
 
 A self-taught full-stack developer
 
-[![Albin's github stats](https://github-readme-stats.vercel.app/api?username=albinvar&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/albinvar/github-readme-stats)
+[![Albin's github stats](https://github-readme-stats.vercel.app/api?username=mr-adnan-adu&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/mr-adnan-adu/github-readme-stats)
 
 ## Laungauges and Tools
 
@@ -55,8 +55,8 @@ A self-taught full-stack developer
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinvar&theme=blue-green" alt="snake"></center>
-  <img src="https://github.com/albinvar/albinvar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-adnan-adu&theme=blue-green" alt="snake"></center>
+  <img src="https://github.com/mr-adnan-adu/mr-adnan-adu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-[![@albinvar's Holopin board](https://holopin.me/albinvar)](https://holopin.io/@albinvar)
+[![@mr-adnan-adu's Holopin board](https://holopin.me/mr-adnan-adu)](https://holopin.io/@mr-adnan-adu)
