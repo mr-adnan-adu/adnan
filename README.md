@@ -44,6 +44,7 @@ A self-taught full-stack developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
 </div>
 
 <br/>
@@ -60,8 +61,8 @@ A self-taught full-stack developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mr-adnan-adu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mr-adnan-adu&limit=2&theme=dark&combine_all_yearly_contributions=true) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mr-adnan-adu&limit=2&theme=dark&combine_all_yearly_contributions=true)
 
 # Thanks for All❣️
 
