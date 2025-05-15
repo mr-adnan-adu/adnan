@@ -10,6 +10,22 @@
     A self-taught full-stack developer with a passion for web development. After completing my +2 education, dedicating myself to self-learning and hands-on practice.
 </p>
 
+```php
+<?php
+$adnan_bio = [
+    "name" => "🚀 MUHAMMED ADNAN K🧙‍♂️",
+    "age" => "Turning the page to my 19th chapter.",
+    "crush_on" => "ChatGPT 🤖🤍 (she's got a way with words)",
+    "education" => "+2",
+    "interests" => [
+        "AI & Web Development Explorer 🌐"
+    ],
+];
+
+print_r($adnan_bio);
+?>
+```
+
 <br />
 <div align="left">
 <h2>Connect with Me 🌎</h2>
