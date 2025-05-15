@@ -1,77 +1,68 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Muhammed Adnan k</h1>
+         width="45" />, I'm MUHAMMED ADNAN</h1>
 
 <img src="https://komarev.com/ghpvc/?username=mr-adnan-adu&label=Profile%20views&color=0e75b6&style=flat" alt="mr-adnan-adu" /> 
 
 A self-taught full-stack developer
 
-[![Albin's github stats](https://github-readme-stats.vercel.app/api?username=mr-adnan-adu&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/mr-adnan-adu/github-readme-stats)
-
-## Laungauges and Tools
 
 <p align="center">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="docker" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="vuejs" width="32" height="32"/> </code>
-<code><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="32" height="32"/> </code>
-<code><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/> </code>
+    A self-taught full-stack developer with a passion for web development. After completing my +2 education, dedicating myself to self-learning and hands-on practice.
 </p>
 
-<hr>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-adnan-adu&theme=blue-green" alt="snake"></center>
-  <img src="https://github.com/mr-adnan-adu/mr-adnan-adu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<div align="center">
 
-[![@mr-adnan-adu's Holopin board](https://holopin.me/mradnanadu)](https://holopin.io/@mradnanadu)
+![Profile Views](https://komarev.com/ghpvc/?username=mr-adnan-adu&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/mr-adnan-adu?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/mr-adnan-adu?style=social)
 
-## Connect with me:
-<p align="left">
+</div>
 
-<a href = "https://twitter.com/MR_ADNAN_ADU"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/a.d_n_a.n/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/@malayalamebooks"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<br />
 
-</p>
+<h1 align="center">
+    💻 Tech Stack:
+</h1>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/mr-adnan-adu?tab=followers"><img src="https://img.shields.io/github/followers/mr-adnan-adu?label=Followers&style=social" alt="GitHub Badge"></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=mr-adnan-adu&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-adnan-adu&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mr-adnan-adu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mr-adnan-adu&limit=2&theme=dark&combine_all_yearly_contributions=true) -->
+
+# Thanks for All❣️
+
+</div>
