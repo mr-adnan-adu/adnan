@@ -5,15 +5,31 @@
 
 <img src="https://komarev.com/ghpvc/?username=mr-adnan-adu&label=Profile%20views&color=0e75b6&style=flat" alt="mr-adnan-adu" /> 
 
-A self-taught full-stack developer
-
 
 <p align="center">
     A self-taught full-stack developer with a passion for web development. After completing my +2 education, dedicating myself to self-learning and hands-on practice.
 </p>
 
 <br />
+<div align="left">
+<h2>Connect with Me 🌎</h2>
+<a href="https://github.com/mr-adnan-adu" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/mr_adnan_adu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/muhammed-adnan-k-88b612281/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/a.d_n_a.n" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+<br/>  
 
+<div align="left">
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-adnan-adu&color=brightgreen)
