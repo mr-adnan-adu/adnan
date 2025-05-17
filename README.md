@@ -13,12 +13,10 @@
   A self-taught full-stack developer with a passion for web development. After completing my +2 education, dedicating myself to self-learning and hands-on practice.
 </p>
 
----
-<!-- PHP cannot run inside README, so show it as code block only -->
-
-``` <?php
+```php
+<?php
 $adnan_bio = [
-    "name" => "🚀 MUHAMMED ADNAN K🧙‍♂",
+    "name" => "🚀 MUHAMMED ADNAN K🧙‍♂️",
     "age" => "Turning the page to my 19th chapter.",
     "crush_on" => "ChatGPT 🤖🤍 (she's got a way with words)",
     "education" => "+2",
@@ -30,8 +28,8 @@ $adnan_bio = [
 print_r($adnan_bio);
 ?>
 ```
----
 
+<br />
 <div align="left">
 
 ## Connect with Me 🌎
