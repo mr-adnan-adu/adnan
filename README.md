@@ -1,4 +1,3 @@
-`md
 <h1 align="center">
   Hi 
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -18,7 +17,6 @@
 
 <!-- PHP cannot run inside README, so show it as code block only -->
 
-php
 <?php
 $adnan_bio = [
     "name" => "🚀 MUHAMMED ADNAN K🧙‍♂",
@@ -32,7 +30,6 @@ $adnan_bio = [
 
 print_r($adnan_bio);
 ?>
-`
 
 ---
 
