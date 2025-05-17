@@ -14,10 +14,9 @@
 </p>
 
 ---
-
 <!-- PHP cannot run inside README, so show it as code block only -->
 
-<?php
+``` <?php
 $adnan_bio = [
     "name" => "🚀 MUHAMMED ADNAN K🧙‍♂",
     "age" => "Turning the page to my 19th chapter.",
@@ -30,7 +29,7 @@ $adnan_bio = [
 
 print_r($adnan_bio);
 ?>
-
+```
 ---
 
 <div align="left">
