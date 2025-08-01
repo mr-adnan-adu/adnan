@@ -144,26 +144,15 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ---
 
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-| 🔭 *Currently Working On* | 🌱 *Learning* | 👯 *Looking to Collaborate* |
-|:---:|:---:|:---:|
-| Advanced AI Chatbots | Machine Learning | Open Source Projects |
-| Cloud Architecture | DevOps Practices | Python Libraries |
-| Telegram Automation | React.js | AI Integration |
-
-</div>
-
----
-
 ## 📊 Weekly Development Breakdown
 
 text
 Python       ████████████████████░░   80.5%
+
 JavaScript   ████░░░░░░░░░░░░░░░░░░   15.2%
+
 HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░    3.1%
+
 Other        ░░░░░░░░░░░░░░░░░░░░░░    1.2%
 
 
