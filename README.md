@@ -24,8 +24,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ## 🛠 Technical Skills
 
-### Programming Languages
 <div align="center">
+  
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,8 +35,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 </div>
 
-### Frameworks & Libraries
 <div align="center">
+  
+### Frameworks & Libraries
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -44,8 +46,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 </div>
 
-### Databases
 <div align="center">
+  
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,8 +57,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 </div>
 
-### Cloud & DevOps
 <div align="center">
+  
+### Cloud & DevOps
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -65,8 +69,10 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 </div>
 
-### Development Tools
+
 <div align="center">
+  
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
