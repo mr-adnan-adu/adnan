@@ -5,8 +5,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Building+the+future+with+Python;Creating+innovative+solutions)
 
-
 </div>
+
 
 ---
 
