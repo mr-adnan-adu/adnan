@@ -1,7 +1,6 @@
 # 👨‍💻 Muhammed Adnan K
 ### Python Full Stack Developer | Tech Content Creator | AI Enthusiast
 
-<div align="center">
 ---
 
 ## 🚀 About Me
