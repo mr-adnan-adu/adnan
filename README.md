@@ -93,8 +93,9 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 ### 📈 Contribution Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-adnan-adu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
 
-### 🔥 Streak Stats
+<!--### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-adnan-adu&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7dcfff&ring=7aa2f7&fire=ff9e64&currStreakNum=bb9af7&sideNums=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=9ece6a)
+-->
 
 ### 💻 Language Distribution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-adnan-adu&theme=tokyonight&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages)
