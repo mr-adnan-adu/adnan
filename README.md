@@ -76,6 +76,7 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </div>
 
 <div align="center">
+  
 ### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
