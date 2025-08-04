@@ -108,9 +108,15 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 <div align="center">
 
-### 📈 Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanxpkd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
+### 📈 Repo Beats Analytics
 
+<div align="center">
+
+![RepoBeats](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg)
+
+</div>
+
+---
 <!--### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-adnan-adu&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7dcfff&ring=7aa2f7&fire=ff9e64&currStreakNum=bb9af7&sideNums=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=9ece6a)
 -->
