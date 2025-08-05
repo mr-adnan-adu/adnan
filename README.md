@@ -103,23 +103,21 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mr-adnan-adu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<!-- 🔥 Contribution Graph (Alternative since original is down) -->
+<img src="https://activity-graph.herokuapp.com/graph?username=adnanxpkd&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+
+<!-- 📈 GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=adnanxpkd&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+
+<!-- 🔥 GitHub Streak -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=adnanxpkd&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-adnan-adu&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
