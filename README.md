@@ -149,4 +149,45 @@ I'm a *self-taught Python Full Stack Developer* passionate about creating innova
 </div>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Repo Beats Analytics
+![RepoBeats](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg)
+
+---
+### 💻 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanxpkd&theme=tokyonight&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=adnanxpkd&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanxpkd&theme=tokyo-night&hide_border=true&area=true)
+</div>
+
+---
+
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&colorB=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&colorB=1DA1F2" alt="Twitter"/>
+  </a>
+</div>
 <!-- Crafted with 💙 by Muhammed Adnan K -->
